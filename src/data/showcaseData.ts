@@ -276,7 +276,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-1",
     title: "Customer Overview & 72% AI Recovery Gauge",
     category: "AI Intelligence",
-    image: "/kooey-recover/screenshots/overview-customer-detail.png",
+    image: "/screenshots/overview-customer-detail.png",
     description: "Full customer 360 view displaying account balances, 72% AI Recovery Probability gauge, suggested empathetic approach, AI suggested message with 1-click copy, and 4-step resolution checklist.",
     highlights: ["72% AI recovery probability bar", "Quick metrics bar (€3,450 outstanding)", "Suggested approach summary", "Single-click copy AI message"]
   },
@@ -284,7 +284,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-2",
     title: "Customers Master List & Advanced Filter Bar",
     category: "Customer 360",
-    image: "/kooey-recover/screenshots/customer-management-list.png",
+    image: "/screenshots/customer-management-list.png",
     description: "High-density debtor management table featuring KPI metric cards (€3.45M total debt, 66% overdue), multi-criteria filters (Risk Segment, Status, Product, Overdue Days), and pagination.",
     highlights: ["KPI cards for debt and risk", "Real-time search and risk filters", "Status tags (Overdue, Contacted, PTP)", "+ Add Customer modal action"]
   },
@@ -292,7 +292,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-3",
     title: "Automated Data Ingestion & CSV ETL Pipeline",
     category: "Data Pipeline",
-    image: "/kooey-recover/screenshots/data-upload-pipeline.png",
+    image: "/screenshots/data-upload-pipeline.png",
     description: "Enterprise portfolio upload system that checks customer files, maps columns dynamically, validates formatting, and isolates anomalies for clean database ingestion.",
     highlights: ["Drag & drop file upload", "Data validation statistics", "Column auto-mapping", "Anomaly & error detection"]
   },
@@ -300,7 +300,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-4",
     title: "4-Step Guided Agent Workspace Cockpit",
     category: "Agent Workspace",
-    image: "/kooey-recover/screenshots/agent-workspace-cockpit.png",
+    image: "/screenshots/agent-workspace-cockpit.png",
     description: "Live call cockpit guiding collectors step-by-step through Call, Discuss, Agree Plan, and Close with integrated customer sidebar and call telemetry.",
     highlights: ["4-step resolution progress bar", "Call dialer & audio controls", "Live customer financial overview", "Structured conversation guides"]
   },
@@ -308,7 +308,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-5",
     title: "Unified Omnichannel Communication Studio",
     category: "Omnichannel",
-    image: "/kooey-recover/screenshots/communication-suite.png",
+    image: "/screenshots/communication-suite.png",
     description: "Complete communication command center featuring Email composer with template library, Twilio SMS sender with dynamic tokens, and Activity calendar scheduling.",
     highlights: ["SMS & Email 3-tab switcher", "Pre-built message template library", "Dynamic placeholder tags", "Upcoming activity calendar"]
   },
@@ -316,7 +316,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-6",
     title: "Dynamic Payment Plan & Schedule Engine",
     category: "Payment Engine",
-    image: "/kooey-recover/screenshots/payment-plan-engine.png",
+    image: "/screenshots/payment-plan-engine.png",
     description: "Dedicated payment plan management tab displaying active plan metrics (ID PLAN-001, Monthly frequency, 4 installments) and detailed installment schedule table with status pills.",
     highlights: ["Active Plan metric grid", "Installment schedule breakdown", "Paid vs Remaining amount tracking", "+ Create Payment Plan trigger"]
   },
@@ -324,7 +324,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-7",
     title: "Mobile SMS & Email Preview Modals",
     category: "Omnichannel",
-    image: "/kooey-recover/screenshots/email-preview-modal.png",
+    image: "/screenshots/email-preview-modal.png",
     description: "Interactive preview dialogs allowing agents to verify message formatting, file attachments, and token replacement before sending communications.",
     highlights: ["Realistic smartphone mockup", "Email attachment verification", "One-click edit or send buttons", "Full screen / Modal view switcher"]
   },
@@ -332,7 +332,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-8",
     title: "Multi-Modal Action & Document Modals",
     category: "Customer 360",
-    image: "/kooey-recover/screenshots/modal-popups.png",
+    image: "/screenshots/modal-popups.png",
     description: "Contextual modals for editing customer information, generating payment plans, uploading legal documents, and adding timestamped case notes.",
     highlights: ["Customer profile edit popup", "Payment plan creation form", "Document category tagger", "Row-level action dropdowns"]
   }
