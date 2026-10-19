@@ -1,110 +1,92 @@
-# Rohan Tandel
-## actively working in IT Industry - since 2016
+# Anghkooey Recover — Product Showcase Website
 
-### Profile Summary +
-Experienced in educational, medical, food and music industry Actively looking for a position as a software engineer in a solid shining edge firm to contribute and earn growth of skills in the IT industry
+A production-grade, interactive enterprise product showcase website built to showcase how the **Anghkooey Recover** (`anghkooey_recover`) debt collection and recovery management app works, behaves, and resolves delinquent debt.
 
-### Accomplishments + 
-Have involved successfully in architecture design termed microservice Efficient dealing with clients, flexible with SE models...  and event driven 
+## 📁 Location
+`/Users/rohantandel/WebstormProjects/ECOMM/website`
 
-Perfect Leadership leading 2 teams. Added With good skills for debugging, mentoring and bringing the delivery on time...
+---
 
-Efficient development factor, Process oriented, dealing with internal/external clients to discuss and determine specific requirements...
+## 🚀 Quick Start
 
-Given seminars and conducted sessions on application design, efficient code practice and javascript libraries.  Involved  in organization’s selection process of conducting interviews
+```bash
+# Navigate to the website directory
+cd /Users/rohantandel/WebstormProjects/ECOMM/website
 
-Worked on high data  with 0.51M user base. provided solutions to the remote team utilizing a stack of communications tools  ensuring uninterrupted results.
+# Start the local development server (runs on port 5174 by default)
+npm run dev
 
-### Key Skills +
-Languages : PHP 7, python, Javascript, Typescript, Shell Scripting, SQL, golang
+# Or build and preview the production bundle
+npm run build
+npm run preview
+```
 
-Framework: Laravel 5.7, prestashop 1.8, Codeigniter 3.0, ExpressJs, DJango
+---
 
-Database: MYSQL, MongoDB, Elasticsearch, Redis, Memcached
+## 🌟 Key Showcase Sections & Features
 
-Clouds: AWS
+1. **Enterprise Hero with Dynamic Interactive Cockpit**
+   - Brand headline: *"Empathetic, Autonomous & Compliant Debt Recovery Intelligence"*.
+   - Live simulated console switcher between:
+     - `AI Recommendation (72%)`
+     - `4-Step Cockpit`
+     - `Payment Plan`
+     - `Registry View`
+   - Real-time KPI counters (+38% Recovery Rate Lift, -62% Cost per Account, 84.2% Promise-to-Pay Adherence, 99.9% Compliance).
 
-App Architecture: microservices 
+2. **5-Stage "How It Works" Interactive Product Flow (`HowItWorksFlow.tsx`)**
+   - **Stage 1: Ingest & Sanitize Portfolio** (Automated data pipeline, CSV upload, anomaly guard).
+   - **Stage 2: Predictive Propensity & Risk Scoring** (Machine learning likelihood gauge, risk segments).
+   - **Stage 3: Autonomous Omnichannel Outreach** (Twilio SMS, Email journeys, ElevenLabs voice).
+   - **Stage 4: Guided Agent Resolution Cockpit** (4-step linear flow: Call → Discuss → Agree Plan → Close).
+   - **Stage 5: Payment Plan Execution & Audit Vault** (Installment schedules, legal documents, timeline logs).
+   - Features deep technical specs: *System Input*, *AI Autonomous Behavior*, *Human-in-the-Loop Safeguard*, and *Definitive Outcome*.
 
-Version Control: GIT, BITBUCKET    
+3. **Live Interactive Sandbox Simulator (`InteractiveSandbox.tsx`)**
+   - Allows prospective buyers and visitors to simulate debt recovery directly in the browser:
+     - **Debtor Personas**: John Doe (€3,450 debt, Medium risk), Elena Rostova (€8,900 debt, High risk), Marcus Vance (€1,250 debt, Low risk).
+     - **AI Tone Modulator**: Empathetic, Structured/Neutral, Pre-Escalation Urgent.
+     - **Interactive Payment Plan Duration Slider**: Real-time recalculation of monthly installment amounts.
+     - **Multi-Channel Preview**: Realistic iPhone Twilio SMS mockup, Rich Email Studio, and ElevenLabs Voice synthesis with audio waveform.
+     - **Resolution Simulation**: "Execute Simulated Resolution & Lock PTP" button with celebratory confetti animation and Promise-to-Pay lock.
 
-engines: NodeJs
+4. **6 Core Enterprise Engines Deep Dive (`FeatureDeepDives.tsx`)**
+   - Customer 360 & Delinquency Registry
+   - AI Propensity & Behavioral Scoring
+   - Guided 4-Step Agent Workspace
+   - Omnichannel Twilio & ElevenLabs Suite
+   - Dynamic Payment Plan & Installment Engine
+   - Audit Document Vault & Notes Timeline
 
-Design: Wireframe Design, Photoshop, PPT
+5. **Production UI Screenshot Gallery & Lightbox (`ScreenshotsGallery.tsx`)**
+   - Integrated with the actual production screenshots from the application:
+     - `overview-customer-detail.png`
+     - `customer-management-list.png`
+     - `data-upload-pipeline.png`
+     - `agent-workspace-cockpit.png`
+     - `communication-suite.png`
+     - `payment-plan-engine.png`
+     - `email-preview-modal.png`
+     - `modal-popups.png`
+   - Category filtering: Customer 360, Agent Workspace, AI Intelligence, Omnichannel, Payment Engine, Data Pipeline.
+   - Click-to-enlarge Lightbox modal with keyboard Esc support.
 
-Js Libraries: Jquery, PopperJs, socketIO 
+6. **Enterprise Architecture & Compliance Stack (`ArchitectureSecurity.tsx`)**
+   - 4-Tier Architecture: React Front-End, AI Reasoning Layer, Telephony/Messaging Hub, and Hybrid PostgreSQL + MongoDB Persistence.
+   - Regulatory frameworks: FDCPA contact hours enforcement, TCPA consent verification, GDPR Article 22 human-in-the-loop protection, and AES-256 encryption.
 
-Web Technologies: HTML5, CSS3, Bootstrap 4, AJAX
+7. **Interactive ROI & Financial Impact Calculator (`RoiCalculator.tsx`)**
+   - Interactive sliders for Portfolio Size, Current Recovery Rate, and Account Volume.
+   - Calculates projected net cash gain, collector hours saved, and estimated ROI multiplier.
 
-Testing: Jmeter, Postman Payment Gateways: Interpay, PayPal, Stripe...
+8. **Enterprise FAQ & Pilot Booking Modal (`FaqSection.tsx` & `DemoModal.tsx`)**
+   - Comprehensive answers to compliance, integrations, and deployment questions.
+   - High-conversion lead capture modal with form validation.
 
-Network: WireShark, Nmap, Zabbix, Jenkins
+---
 
-Server: Apache or httpd, NGINX
-
-OS: Linux  (Kernel version 3.0 +)  
-
-Web Services: REST APIs  Other APIs: 24x7 API, Open API
-
-Social Networks: Facebook, Google, LinkedIn, Twitter
-
-Misc: Slack, Redmine, OS and Server Installation, configuration. Sequence
-and ER Diagrams, UML, Knowledge of Design Prototype and Agile model, PPTs…
-
-
-
-### Softwares and Tools + 
-2019 - Microservice Framework (PHP) - actively working
-
-2020 - MChat - Era Chat App. Node
-
-
-### Scholastic and Company + 
-
-Graduated from Visveswaraiah Technological University KA Ind
-
-Current company SB private Limited Hyderabad (Madhapur) TN Ind
-
-
-### Major Projects +								Total-Project 10+ 
-
-
-Mindspark
-### Full Stack Web Developer
-Business & Project Description :
-Provided solution to the elasticsearch load
-Contributed using php laravel,, along side Javascript, Angular and node JS
-Worked with modules OfflineSync, Oneclick, ClassUpgrade and MS Maths
-
-Bambwa
-### Lead Developer
-Business & Project Description :
-Bambwa is a music website which holds the content of third party provider
-24x7. By using 24x7 APIs we fetch the data like albums, artists, songs, radios etc and we includes PHP, Laravel, Java, Jquery
-developed REST APIs which will be used by Android and IOS apps
-
-SalesDesk- Easyflicks
-### Lead Developer
-Business & Project Description :
-Salesdesk is an Ecommerce website developed for marketing household products like TVs etc with Tech as PHP, Prestashop, Smarty, Jquery
-maintained an admin panel for user configuration. developed commission hierarchy
-Inventory stocks for sellers product sales tracks
-
-Creative Tao
-### Lead Developer
-Business & Project Description :
-Creative Tao is an Online learning Platform dev in ExpressJs, Python, bootstrap
-With Reference to Learning Platform,It has A unique feature of live Digital Classroom
-Users earn a specific batch that gives a digital signed Certification for their User.
-
-Bookamo 
-### Lead Developer
-Business & Project Description :
-Sharing of digital podcasts, with various artist and genre and credentials  among
-employers with use of external APIs. App dev Dev in Laravel, Bootstrap 4, Angular cli
-It’s a Unique platform for connecting books and people with hassle free procedures
-
-
-
-### Personal Snippets +
-Speaking Languages	:	Telugu, Hindi, Marathi, Kannada, Gujarati
+## 🛠️ Tech Stack
+- **Framework**: React 18 + TypeScript + Vite 6
+- **Styling**: Tailwind CSS 3 with custom glow utilities and dark slate theme
+- **Icons**: Lucide React
+- **Animations**: Canvas Confetti, CSS transitions & keyframe pulses
