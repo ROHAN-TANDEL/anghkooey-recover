@@ -284,7 +284,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-2",
     title: "Customers Master List & Advanced Filter Bar",
     category: "Customer 360",
-    image: "/kooey-recover//screenshots/customer-management-list.png",
+    image: "/kooey-recover/screenshots/customer-management-list.png",
     description: "High-density debtor management table featuring KPI metric cards (€3.45M total debt, 66% overdue), multi-criteria filters (Risk Segment, Status, Product, Overdue Days), and pagination.",
     highlights: ["KPI cards for debt and risk", "Real-time search and risk filters", "Status tags (Overdue, Contacted, PTP)", "+ Add Customer modal action"]
   },
@@ -292,7 +292,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-3",
     title: "Automated Data Ingestion & CSV ETL Pipeline",
     category: "Data Pipeline",
-    image: "/kooey-recover//screenshots/data-upload-pipeline.png",
+    image: "/kooey-recover/screenshots/data-upload-pipeline.png",
     description: "Enterprise portfolio upload system that checks customer files, maps columns dynamically, validates formatting, and isolates anomalies for clean database ingestion.",
     highlights: ["Drag & drop file upload", "Data validation statistics", "Column auto-mapping", "Anomaly & error detection"]
   },
@@ -300,7 +300,7 @@ export const GALLERY_SCREENSHOTS: ScreenshotItem[] = [
     id: "scr-4",
     title: "4-Step Guided Agent Workspace Cockpit",
     category: "Agent Workspace",
-    image: "/kooey-recover//screenshots/agent-workspace-cockpit.png",
+    image: "/kooey-recover/screenshots/agent-workspace-cockpit.png",
     description: "Live call cockpit guiding collectors step-by-step through Call, Discuss, Agree Plan, and Close with integrated customer sidebar and call telemetry.",
     highlights: ["4-step resolution progress bar", "Call dialer & audio controls", "Live customer financial overview", "Structured conversation guides"]
   },
